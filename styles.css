@@ -1,0 +1,50 @@
+.heading {
+    text-align: center;
+    background-color: turquoise;
+    padding:10px;
+    font-size:35px;
+    font-family: 'Thasadith';
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: violet;
+    border: 4px dashed black;
+    margin:10px;
+    padding:50px;
+}
+
+.cta {
+    display: flex;
+    text-align:center;
+    font-family: 'Shadows Into Light';
+}
+
+.fun-facts {
+    width: 20%; 
+    background-color: orange;
+    border:solid blue;
+}
+
+.donate {
+    width: 80%;
+    background-color: silver;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size:40px;
+    color:white;
+    text-align:center;
+    border:dotted black;
+}
+
+img {
+    height:100px;
+}
+
+html {
+    background: url("https://media.giphy.com/media/cEYFeE69pKzWNMfI7JK/giphy.gif");
+    background-size: cover;
+
+}
